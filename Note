@@ -1,0 +1,11 @@
+This project is made to suit student projects management system, that includes various
+projects assigned to students and the students working on each project. This software system
+allows for easy project management and tracking activities in those projects.
+
+The software is inclusive of four special designated logins, each of them performing their
+own special and dignified role. They include HOD Login, Guide Login, Project Co-ordinator
+Login and last but not the least, the Student Group Leader Login. All these logins collectively
+work in the software as a social unit.
+An administrator has the overall control of this system that allows him to create and remove
+projects as per the requirement, allocate guides for those projects and also allocate the
+specified students to work on those projects and also be able to track the project progress.
